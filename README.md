@@ -1,6 +1,6 @@
 # Getting Started with Reading List
 
-This is a siple application for managing your reading list. The user can add/edit/delete book items. There are also randomly generated images for each book item. Why?! Because it's cute
+This is a simple application for managing your reading list. The user can add/edit/delete book items. There are also randomly generated images for each book item. Why?! Because it's cute >.<
 
 ## Available Scripts
 
