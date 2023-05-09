@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Getting Started with Reading List
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a siple application for managing your reading list. The user can add/edit/delete book items. There are also randomly generated images for each book item. Why?! Because it's cute
 
 ## Available Scripts
 
